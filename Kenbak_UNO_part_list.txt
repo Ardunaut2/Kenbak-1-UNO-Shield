@@ -1,0 +1,23 @@
+Kenbak UNO Part List:
+
+Item  Description                                                        Qty
+ 1.- Resistor 1/4W 1.3k 5% (R1) ........................................  1
+ 2.- Resistor 1/4W 2.4k 5% (R2,R3) .....................................  2
+ 3.- Resistor 1/4W 330 5% (R4) .........................................  1
+ 3.- 3mm Warm White Diffused led (D1-D8) ...............................  8
+ 5.- 3mm Yellow Diffused led (D9-D12) ..................................  4
+ 6.- Same Sky TS02-66-43-BK-100-LCR-D Tactile Switch 6x6mm 4.3mm Height 
+     100gr actuation force, Black (SW1-SW4, SW9, SW11, SW13, SW15)......  8
+ 7.- OMRON B3F-1000 Tactile Switch 6x6mm 4.3mm Height
+     100gr actuation force, White (SW5-SW8, SW10, SW12, SW14) ..........  7
+ 8.- 5-pin header ......................................................  1
+ 9.- 6-pin header ......................................................  1
+10.- 8-pin header ......................................................  2
+11.- 10-pin header .....................................................  1
+12.- DS3231 Real Time Clock Module (J1) ................................  1
+11.- Arduino UNO Rev3 or compatible ....................................  1
+
+Mechanical Parts (Optional Simple four-legged base):
+ 1.- M3 x 15mm Female-Female Hex Thread Nylon Spacer ...................  4
+ 2.- 7/16" (11mm) W x 1/4" (6mm) Round Rubber Feet Bumpers .............  4
+ 3.- M3 x 6mm Pan Head Machine Screw, Stainless Steel ..................  8
