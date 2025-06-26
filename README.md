@@ -5,7 +5,7 @@ Unlike the original design, which used shift registers, this version leverages i
 <div style="text-align: center;">
   <img src="/Pictures/Kenbak_UNO_Shield.jpg" alt="Centered image" style="display: block; margin: 0 auto;">
 </div>
-Kenbak-1 Arduino MEGA Shield
+Kenbak-1 Arduino UNO Shield
 
 <div style="text-align: center;">
   <img src="/Pictures/Kenbak_UNO_Diagram.png" alt="Centered image" style="display: block; margin: 0 auto;">
